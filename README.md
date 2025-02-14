@@ -3,4 +3,4 @@ Microtime
 Participants:
 - Danyil Rozumovskyi (Netflix)
 - Inna Denysiuk (Apple)
-- Serhiy Semenyaka (Google)
+- Serhiy Semenyaka (Amazon)
