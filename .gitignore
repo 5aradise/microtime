@@ -1,0 +1,46 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary, coverage reports, and profiling data
+*.test
+*.out
+*.prof
+*.coverprofile
+
+# Vendor directory (comment out if you have committed your vendor deps)
+vendor/
+
+# IDE and editor specific files
+.idea/
+.vscode/
+*.swp
+*~
+
+# Dependency management
+go.sum
+go.work
+go.work.sum
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Build artifacts and intermediate files
+bin/
+build/
+dist/
+
+# Go modules
+node_modules/
+pkg/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Rider specific
+.idea/
+out/
